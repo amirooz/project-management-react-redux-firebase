@@ -2,7 +2,7 @@
   "name": "desk",
   "version": "0.1.0",
   "private": true,
-  "keywords: "project management, react, redux, firebase",
+  "keywords": "project management, react, redux, firebase",
   "dependencies": {
     "core-js": "^3.0.1",
     "firebase": "^5.3.0",
